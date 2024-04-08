@@ -1,0 +1,46 @@
+body {
+ text-align: center;
+}
+#vidosik {
+ width: 1110px;
+ padding-bottom: 30px;
+}
+h1 {
+ font-family: Rubik Glitch;
+ color: 9d0000;
+}
+}
+.malishi {
+ width: 50px;
+ margin: 10px;
+}
+p {
+ text-align: center;
+ }
+#blok1 {
+ width: 500px;
+ float: left;
+ margin-left: 350px; 
+ text-align: justify;
+ font-family: rubic;
+ font-size: 20px;
+ line-height: 19px;
+}
+#blok2 {
+ width: 500px;
+ float: right;
+ margin-right: 350px; 
+ text-align: justify;
+ font-family: rubic;
+ font-size: 20px;
+ line-height: 19px;
+}
+
+.malishi {
+ width: 400px;
+float: left;
+margin-left: 150px;
+margin-top: 50px:
+}
+#knopka {
+ margin
